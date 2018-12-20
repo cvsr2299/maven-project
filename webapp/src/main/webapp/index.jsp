@@ -1,1 +1,1 @@
-Hello, World! - Maven Latest1
+Hello, World! 
